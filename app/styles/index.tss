@@ -1,0 +1,7 @@
+".container": {
+	backgroundColor:"gray"
+}
+
+"#general":{
+	// style:Titanium.UI.iPhone.ListViewStyle.GROUPED,
+}

@@ -1,0 +1,9 @@
+<Alloy>
+		<!-- <NavigationWindow> -->
+			<Window title="listview" backgroundColor="white">
+				<ListView id="general">
+					<SearchBar></SearchBar>
+				</ListView>
+			</Window>
+		<!-- </NavigationWindow> -->
+</Alloy>
